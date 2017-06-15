@@ -1,0 +1,8 @@
+Text Clock component
+Timeout component
+Pomodoro counter
+Start/Stop Button
+
+ref to current time
+play pause state
+number of pomodoros finished
